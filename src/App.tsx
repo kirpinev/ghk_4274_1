@@ -375,12 +375,6 @@ export const App = () => {
               <Typography.Text view="primary-small" color="secondary">
                 {game.text}
               </Typography.Text>
-
-              <Gap size={2} />
-
-              {/*<Typography.Text view="primary-small" color="secondary">*/}
-              {/*  {game.price}*/}
-              {/*</Typography.Text>*/}
             </div>
             <div className={appSt.cardDiscountContainer}>
               <Typography.Text view="primary-small" color="primary">
